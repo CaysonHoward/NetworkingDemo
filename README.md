@@ -4,7 +4,7 @@ This is a simple demonstration of what a server to client model would look like 
 
 With this demo, it is designed in a way that will allow the user to modify and scale the server and client side to their wishes. Additionally, the server side has a simple bash file that the user can use to begin the run process of the server. While this may be useless due to the small nature of the server, a more complex program with multiple moving parts may need a similar file to get everything running
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/2DYttLCXo-U))
+[Software Demo Video](https://youtu.be/2DYttLCXo-U)
 
 # Network Communication
 
