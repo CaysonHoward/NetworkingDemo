@@ -25,4 +25,4 @@ The tools that where used was python and basic networking.
 # Future Work
 
 * Encode the handshake using a hashing algorithm so if it gets intercepted, the hacker will still be unable to connect
-* Have the server modify data and then return it. (Something like a calculator
+* Have the server modify data and then return it. (Something like a calculator)
